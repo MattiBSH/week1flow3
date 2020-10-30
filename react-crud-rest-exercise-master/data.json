@@ -1,0 +1,18 @@
+{
+  "api": [
+    {
+      "id": 1,
+      "age": "21",
+      "name": "benny",
+      "email": "m@gmail.com",
+      "gender": "male"
+    },
+    {
+      "id": 2,
+      "age": "21",
+      "name": "Matti",
+      "email": "matti@gmail.com",
+      "gender": "male"
+    }
+  ]
+}
